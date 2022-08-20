@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [790903029440053270],
+        "ACTIVITY_TEXT": "¹⁸⁴⁸ Welcome",
+        "GUILD_ID": "835890820480892937",
+        "VOICE_CHANNEL": "835890821118689290",
+        "MIN_STAFF_ROLE": "835890820782489709"
+    },
+    "FILES": {
+        "WELCOME": "default_files/Welcome.mp3",
+        "STAFF": "default_files/yetkili.mp3"
+    },
+    "TOKEN": "ODM2MTI3Njk2MzE2MjY4NTg1.YIZemQ.qzbAmcE7bFBx1Ly3k_WFrT0xipU"
+}
